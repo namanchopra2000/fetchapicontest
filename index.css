@@ -1,0 +1,14 @@
+#con{
+    background-color: aquamarine;
+    display : flex;
+
+    
+}
+#pro{
+    background-color: blueviolet;
+    display: flex;
+}
+#todo{
+    background-color: red;
+    display: flex;
+}
